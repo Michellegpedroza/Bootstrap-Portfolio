@@ -1,9 +1,8 @@
-.profImg{
-    height: 350px;
-    width: 280px;
+body {
+    background-image: url(./Photos/full-bloom.png);
 }
 
-hr{
-    height: 5px;
+.profImg {
+    height: 250px;
+    width: 240px;
 }
-
