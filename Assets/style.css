@@ -1,12 +1,20 @@
+/* background pattern */
+
 body {
     background-image: url(./Photos/full-bloom.png);
 }
 
-.profImg {
-    height: 350px;
-    width: 340px;
-}
+
+/* navigation bar & footer color */
 
 .navColor {
     background-color: #011638;
+}
+
+
+/* profile image sizing */
+
+.profImg {
+    height: 350px;
+    width: 340px;
 }
