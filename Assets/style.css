@@ -4,13 +4,15 @@ body {
     background-image: url(./Photos/full-bloom.png);
 }
 
-
 /* navigation bar & footer color */
 
 .navColor {
     background-color: #011638;
 }
 
+#myName {
+    font-size: 40px;
+}
 
 /* profile image sizing */
 
